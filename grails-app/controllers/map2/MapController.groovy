@@ -2,7 +2,8 @@ package map2
 
 class MapController {
 
-    def index() {
-        render(text: "Hello world")
+    def index(Integer myParam) {
+
+        respond([name: "Map name"])
     }
 }
