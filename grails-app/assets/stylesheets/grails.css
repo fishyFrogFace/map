@@ -39,12 +39,12 @@ pre {
     font-size: 18px !important;
     text-decoration: none;
 }
-.grails-icon img {
+.findr-icon img {
     width: 40px;
 
 }
 .navbar-default, .navbar-static-top {
-    background-color: #4D8618;
+    background-color: #591f87;
     border: 0px;
 }
 a.navbar-brand {
@@ -113,12 +113,12 @@ a.navbar-brand {
 
 #band {
     /*grey =#808080*/
-    background: #79B94C  no-repeat 50% 30%;
+    background: #9562b9 no-repeat 50% 30%;
     height: 400px;
 }
 
 .svg #band {
-    background-image: url(../img/grails-cupsonly-logo-white.svg);
+    background-image: url(../img/point.svg);
 }
 
 .no-svg #band {
@@ -899,7 +899,7 @@ html, body, .st-container, .st-pusher, .st-content {
     visibility: hidden;
     width: 300px;
     height: 100%;
-    background: #79B94C;
+    background: #df9fdf;
     -webkit-transition: all .5s;
     transition: all .5s;
     right: -600px

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="106.000000pt"
+   height="131.000000pt"
+   viewBox="0 0 106.000000 131.000000"
+   preserveAspectRatio="xMidYMid meet"
+   id="svg3816"
+   sodipodi:docname="2fxAW5o.svg"
+   inkscape:version="0.92.1 15371">
+  <defs
+     id="defs3820" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1301"
+     inkscape:window-height="744"
+     id="namedview3818"
+     showgrid="false"
+     inkscape:zoom="1.351145"
+     inkscape:cx="70.666667"
+     inkscape:cy="87.333333"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3816" />
+  <metadata
+     id="metadata3810">
+Created by potrace 1.13, written by Peter Selinger 2001-2015
+<rdf:RDF>
+  <cc:Work
+     rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type
+       rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+  </cc:Work>
+</rdf:RDF>
+</metadata>
+  <g
+     transform="translate(0.000000,131.000000) scale(0.100000,-0.100000)"
+     fill="#000000"
+     stroke="none"
+     id="g3814"
+     style="fill:#ffffff">
+    <path
+       d="M425 1257 c-153 -40 -262 -147 -299 -293 -33 -128 -18 -200 78 -394 74 -148 316 -550 332 -550 13 0 258 408 327 547 84 166 100 222 94 315 -10 152 -101 285 -238 348 -56 26 -84 32 -156 35 -54 3 -107 0 -138 -8z m236 -193 c38 -21 62 -43 84 -78 27 -44 30 -58 30 -125 0 -58 -6 -86 -22 -117 -87 -164 -321 -180 -422 -28 -36 55 -45 94 -39 174 5 64 37 124 89 162 75 56 189 61 280 12z m-278 -588 c52 -21 62 -30 101 -92 24 -38 46 -68 51 -67 4 0 27 31 49 68 37 60 47 69 100 90 33 14 62 23 64 21 5 -6 -203 -339 -214 -343 -8 -2 -194 290 -210 330 -8 21 -10 22 59 -7z"
+       id="path3812"
+       style="fill:#ffffff" />
+  </g>
+</svg>

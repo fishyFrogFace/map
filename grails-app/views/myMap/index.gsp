@@ -6,7 +6,7 @@
     <link rel="stylesheet" href="https://openlayers.org/en/v3.20.1/css/ol.css" type="text/css">
     <style>
     .map {
-        height: 400px;
+        height: 500px;
         width: 100%;
     }
     </style>
@@ -28,7 +28,7 @@
         ],
         view: new ol.View({
             center: ol.proj.fromLonLat([10.12, 63.43]),
-            zoom: 6
+            zoom: 8
         })
     });
 </script>
