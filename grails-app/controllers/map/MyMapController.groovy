@@ -1,6 +1,6 @@
-package map2
+package map
 
-class MapController {
+class MyMapController {
 
     def index(Integer myParam) {
 

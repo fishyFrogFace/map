@@ -1,4 +1,4 @@
-package map2
+package map
 
 import grails.test.mixin.TestFor
 import spock.lang.Specification
@@ -6,8 +6,8 @@ import spock.lang.Specification
 /**
  * See the API for {@link grails.test.mixin.web.ControllerUnitTestMixin} for usage instructions
  */
-@TestFor(MapController)
-class MapControllerSpec extends Specification {
+@TestFor(MyMapController)
+class MyMapControllerSpec extends Specification {
 
     def setup() {
     }
